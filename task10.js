@@ -1,0 +1,1 @@
+alert("Hello " + challengeName + ", Welcome to " + challengeCourse + " Course");
