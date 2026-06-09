@@ -1,3 +1,5 @@
+//task1//
+
 let basicSalary = 25000;
 
 let hra = basicSalary * 0.20;
@@ -14,6 +16,7 @@ console.log("Final Salary : " + finalSalary);
 
 
 
+//task2//
 
 let marks = 85;
 
@@ -33,6 +36,7 @@ if (marks >= 90 & marks <= 100) {
 
 
 
+//task3//
 
 let inputUsername = "admin";
 let inputPassword = "wrongPassword";
@@ -52,6 +56,7 @@ if (inputUsername === correctUsername) {
 
 
 
+//task4//
 
 let balance = 5000;
 let withdrawalAmount = 2000; 
@@ -67,6 +72,7 @@ console.log("Remaining Balance: " + balance);
 
 
 
+//task5//
 
 let purchaseAmount = 6500; 
 let discountPercentage = 0;
@@ -90,6 +96,7 @@ console.log("Final Amount : " + finalAmount);
 
 
 
+//task6//
 
 let hasHelmet = "No"; 
 let hasLicense = "No"; 
@@ -105,6 +112,8 @@ if (hasHelmet === "No" && hasLicense === "No") {
 }
 
 
+
+//task7//
 
 let attendance = ["P", "P", "A", "P", "A", "P", "P"];
 let presentDays = 0;
@@ -123,6 +132,7 @@ console.log("Absent Days : " + absentDays);
 
 
 
+//task8//
 
 let product = {
     productName: "Laptop",
@@ -136,6 +146,7 @@ for (let key in product) {
 
 
 
+//task9//
 
 let distance = 12; 
 let totalFare = 0;
@@ -152,7 +163,7 @@ console.log("Total Fare : ₹" + totalFare);
 
 
 
-
+//task10//
 
 let employees = [
     { id: 1, name: "Rahul", salary: 25000 },
