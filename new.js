@@ -1,3 +1,4 @@
+// //task1//
 // let studentName = "Ganesh";
 // let studentAge = 23;
 // let studentCourse = "CSE";
@@ -7,7 +8,7 @@
 // console.log(studentCourse);
 
 
-
+// //task2//
 // var company = "Stackly";
 // let salary = 20000;
 // const country = "India";
@@ -20,17 +21,17 @@
 // console.log(country);
 
 
-
+// //task3//
 // let userName = prompt("What is your name?");
 // console.log("Welcome " + userName);
 
 
-
+// //task4//
 // let knowsJS = confirm("Do you know JavaScript?");
 // console.log(knowsJS);
 
 
-
+// //task5//
 // let nameInput = prompt("Enter Student Name:");
 // let ageInput = prompt("Enter Student Age:");
 // let cityInput = prompt("Enter Student City:");
@@ -40,17 +41,17 @@
 // console.log("City : " + cityInput);
 
 
-
+// //task6//
 // let course = "JavaScript";
 // alert("Welcome to " + course);
 
 
-
+// //task7//
 // document.writeln("Hello Student <br>");
 // document.writeln("Welcome to JavaScript");
 
 
-
+// //task8//
 // let favoriteFood = "Chicken Biryani";
 // let favoriteColor = "Yellow";
 // let favoriteMovie = "Ragnarok";
@@ -60,7 +61,7 @@
 // console.log("Movie : " + favoriteMovie);
 
 
-
+// //task9//
 // let name = "Ganesh";
 // let age = 23;
 // let phone = "7996772746";
@@ -75,5 +76,5 @@
 // let challengeCourse = prompt("Enter your Course:");
 
 
-
+// //task10//
 // alert("Hello " + challengeName + ", Welcome to " + challengeCourse + " Course");

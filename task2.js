@@ -1,3 +1,4 @@
+// //task1//
 // let marks = 75;
 
 // let status = marks >= 35 ? "Pass" : "Fail";
@@ -16,7 +17,7 @@
 // console.log(grade);
 
 
-
+// //task2//
 // let salary = 25000;
 
 // let bonus = salary * 0.10; 
@@ -27,7 +28,7 @@
 // console.log("Final Salary : " + finalSalary);
 
 
-
+// //task3//
 // let email = "admin@gmail.com";
 // let password = "12345";
 
@@ -40,7 +41,7 @@
 // }
 
 
-
+// //task4//
 // // let price=2000;
 
 // // let discount=price>1000?price*0.20:0;
@@ -49,14 +50,14 @@
 // // console.log("final amount:"+finalamount);
 
 
-
+// //task5//
 // let products=["laptop","mobile","mouse","keyboard"];
 // console.log("first product:"+products[0]);
 // console.log("last product:"+products[products.length-1]);
 // console.log("total products count:"+products.length);
 
 
-
+// //task6//
 // let employee={
 //     name:"naveen",
 //     department:"development",
@@ -67,7 +68,7 @@
 // console.log("salary:"+employee.salary);
 
 
-
+// //task7//
 // let shirt = 500;
 // let pant = 1000;
 // let shoe = 1500;
@@ -80,7 +81,7 @@
 
 
 
-
+// //task8//
 // let age=19;
 // if(age>=18){
 //     console.log("eligible for voting");
@@ -91,7 +92,7 @@
 
 
 
-
+// //task9//
 // let a=10;
 
 // a++;
@@ -109,6 +110,7 @@
 
 
 
+// //task10//
 // let isPresent = true;
 // let completedTask = true;
 
